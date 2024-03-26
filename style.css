@@ -61,7 +61,7 @@ body {
   position: absolute;
   top: 100%;
   left: 50%;
-  width: 100px;
+  width: 150px;
   -webkit-transform: translate(-50%,-50%) rotateX(90deg);
           transform: translate(-50%,-50%) rotateX(90deg);
   color: #fff;
